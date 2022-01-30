@@ -1,0 +1,61 @@
+<PreProcessor>
+<Keyword>
+<Special Character>
+<Comment>
+<String>
+<Datatype>
+<Identifier>
+<Integer>
+<Delimeter>
+<Datatype>
+<Identifier>
+<Operator>
+<Float>
+<Delimeter>
+<Datatype>
+<Identifier>
+<Operator>
+<String>
+<Delimeter>
+<Datatype>
+<Identifier>
+<Operator>
+<String>
+<Delimeter>
+<Keyword>
+<Delimeter>
+<Identifier>
+<Operator>
+<Integer>
+<Delimeter>
+<Delimeter>
+<Keyword>
+<Special Character>
+<String>
+<Special Character>
+<Delimeter>
+<Keyword>
+<Delimeter>
+<Delimeter>
+<Keyword>
+<Delimeter>
+<Identifier>
+<Operator>
+<Float>
+<Delimeter>
+<Delimeter>
+<Keyword>
+<Special Character>
+<String>
+<Special Character>
+<Delimeter>
+<Delimeter>
+<Keyword>
+<Special Character>
+<Special Character>
+<Keyword>
+<Special Character>
+<String>
+<Special Character>
+<Delimeter>
+<Delimeter>
