@@ -1,0 +1,19 @@
+
+#include(library)
+// "This is a comment"
+iq intArr = 0;
+wi floatVals= 9.8; 
+ai stringVal = "Hello World";
+ai stringVal2 = "Checking for Locations";
+whileloop {intArr<5}
+{
+	display("HELLO WORLD");
+	location;
+} 
+if {floatVals == 10.0}
+{
+	display("True");
+}
+
+else ()
+	read(intArr);
